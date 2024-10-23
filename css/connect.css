@@ -1,5 +1,23 @@
 /* Connect  */
 
+/* Fonts  */
+@font-face {
+    font-family: neu;
+    src: url(./fonts/NeueHaasDisplayMediu.ttf);
+}
+
+@font-face {
+    font-family: neu;
+    font-weight: 100;
+    src: url(./fonts/NeueHaasDisplayLight.ttf);
+}
+
+@font-face {
+    font-family: neu;
+    font-weight: 200;
+    src: url(./fonts/NeueHaasDisplayRoman.ttf);
+}
+
 label{
   display:block;
   margin:1em 0 .2em;
